@@ -39,7 +39,7 @@ button:hover {
     border-radius: 10px;
 }
 
-#theFirstObject {
+#theFirstObject, .theFirstObject {
     background: blue;
     height: 20px;
     width: 20px;
