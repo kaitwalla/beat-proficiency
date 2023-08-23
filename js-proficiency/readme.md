@@ -9,16 +9,16 @@ This is a simple toy project to display your Javascript proficiency. In between 
 4. 
     a. WHAT: The div identified as theFirstObject should be copied to the div with an ID of target. The object should have the same appearance in both places  
     b. WHEN: The button titled "Copy first object" is clicked  
-    c. HOW: Listen for and bind the button click event in index.js   
+    c. HOW: Listen for and bind the button click event in main.js   
     d. WHERE: All logic should be in the buttonHandler method "makeFirstChange"  
 5. 
     a. WHAT: The div identified as theSecondObject should be moved to the div with an ID of target, before the first object in the DOM  
     b. WHEN: The button titled "Move second object" is clicked  
-    c. HOW: Listen for and bind the button click event in index.js  
+    c. HOW: Listen for and bind the button click event in main.js  
     d. WHERE: All logic should be in buttonHandler method "makeSecondChange"  
-6. Remove changeText function invocation in index.js.
+6. Remove changeText function invocation in main.js.
 7. 
     a. WHAT: Change the footer text to the value of the footerText variable immediately. Also make a call to https://meowfacts.herokuapp.com, and change the contents of the H1 to the contents of the 'data' variable from the response.  
     b. WHEN: The button titled "Change text" is clicked  
-    c. HOW: Listen for and bind the button click event in index.js  
+    c. HOW: Listen for and bind the button click event in main.js  
     d. WHERE: All logic should be in the buttonHandler method "makeThirdChange"  
