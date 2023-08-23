@@ -40,6 +40,25 @@ node_modules
 /angular-proficiency/e2e/*.js
 /angular-proficiency/e2e/*.map
 
-# System Files
-.DS_Store
-Thumbs.db
+# react
+
+# dependencies
+/react-proficiency/node_modules
+
+# testing
+/react-proficiency/coverage
+/react-proficiency/.nyc_output
+
+# production
+/react-proficiency/build
+
+# misc
+/react-proficiency/.DS_Store
+/react-proficiency/.env
+/react-proficiency/npm-debug.log
+/react-proficiency/.idea
+
+/react-proficiency/.eslintcache
+
+/react-proficiency/cypress/videos
+/react-proficiency/cypress/screenshots
